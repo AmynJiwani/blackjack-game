@@ -1,1 +1,1 @@
-# blackjack-game
+Developed using NetBeans, this program's purpose is to simulate a game of Blackjack. This game features a synchronous response between a single player and an AI. This program implements Java principles such as built‑in data structures (ArrayLists) and OOP concepts (classes and objects)
